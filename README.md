@@ -1,7 +1,7 @@
 # Introduction to ArcGIS StoryMaps
 Materials for DASH tutorial: **Introduction to ArcGIS StoryMaps**  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.githib.io/intro-storymaps) with GitHub Pages   
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/intro-storymaps/) with GitHub Pages   
 
 
 Contributions by the following individuals: 
