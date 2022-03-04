@@ -4,27 +4,13 @@ title: Preparation
 nav_order: 2
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
-
-
-<!--
-
 # Workshop preparation 
 
-Preparation for this tutorial consists of two steps: [Getting the data](#get-the-data) and [Getting the software](#get-the-software). Follow the steps below. 
+All that is required for this workshop are: 1) an ArcGIS Online account, and 2) a web browser.
   
-## Get the data
+## Sign up for an ArcGIS Online account:
+1. Go to [arcgis.com](https://www.arcgis.com/index.html)
+2. Click "Sign In" > Create an account > Create an ArcGIS Public Account (or free trial)
+3. Complete the form and verify your account
 
-You will have an opportunity to download the data during the workshop; however, if you would like to do so ahead of time, it can be downloaded [here](https://github.com/scds/intro-tableau/raw/main/data/humdata_GHGEmissionsGES.xlsx).
-
-## Get the software
-This hands-on workshop uses [**Tableau**](https://www.tableau.com/), a software application for data visualization. We ask that you download Tableau in advance of the workshop to be able to participate in it to the fullest extent.
-
-You have three options for downloading Tableau:
-1. [Tableau Public](https://public.tableau.com/en-us/s/) (limited version)
-2. A 14-day trial of [Tableau Desktop](https://www.tableau.com/products/trial)
-3. A 1-year instructor or student license for [Tableau Desktop for academic purposes](https://www.tableau.com/academic/teaching) 
-
-The three options will be discussed further during the workshop; for now, we recommend Tableau Public or the 14-day trial of Tableau Desktop. Please contact the [Sherman Centre](mailto:scds@mcmaster.ca) if you have any difficulties downloading or opening the software.
-
--->
+Current students, staff, and faculty may request an organizational account by contacting <libgis@mcmaster.ca>.
