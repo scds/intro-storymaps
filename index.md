@@ -12,5 +12,4 @@ nav_order: 1
 ArcGIS Storymaps is a multimedia digital storytelling tool. It allows you to incorporate maps and apps from your ArcGIS account, as well as text, photos, and videos. This workshop will provide attendees with an introduction to storytelling using ArcGIS Storymaps.
 
 Proceed to the [Preparation](preparation) page to get started.
--->
 
