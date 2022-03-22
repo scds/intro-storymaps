@@ -5,7 +5,7 @@ description: A Data Analysis Support Hub Tutorial
 nav_order: 1
 ---
 
-<img src="assets/img/dmds-tableau.png" alt="Workshop Title Slide" width="720">
+<img src="assets/img/logo.png" alt="Workshop Title Slide" width="250">
 
 # Welcome to Introduction to ArcGIS StoryMaps
 
