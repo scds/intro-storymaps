@@ -5,14 +5,11 @@ description: A Data Analysis Support Hub Tutorial
 nav_order: 1
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
-
-<!--
 <img src="assets/img/dmds-tableau.png" alt="Workshop Title Slide" width="720">
 
-# Welcome to Data Visualization with Tableau. 
+# Welcome to Introduction to ArcGIS StoryMaps
 
-You might not think of numbers and locations as Humanities data, but it all depends on how you use them! Working with numeric and spatial data, you will learn how to create visualizations in [Tableau](https://www.tableau.com/).
+ArcGIS Storymaps is a multimedia digital storytelling tool. It allows you to incorporate maps and apps from your ArcGIS account, as well as text, photos, and videos. This workshop will provide attendees with an introduction to storytelling using ArcGIS Storymaps.
 
 Proceed to the [Preparation](preparation) page to get started.
 -->
