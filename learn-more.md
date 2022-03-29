@@ -10,10 +10,10 @@ nav_order: 4
 
 ### McMaster University Library
 #### GIS Services
-Questions? Don't hesitate to reach out to us at libgis@mcmaster.ca.
+Questions? Don't hesitate to reach out to us at [libgis@mcmaster.ca](mailto:libgis@mcmaster.ca).
 
 #### Online Learning
-Workshop recordings and online modules on data analysis, digital scholarship, software, etc - https://scds.ca/online-learning/
+Workshop recordings and online modules on data analysis, digital scholarship, software, etc - [https://scds.ca/online-learning/](https://scds.ca/online-learning/)
 
 ### Esri
 - [Discover the possibilities with ArcGIS StoryMaps!](https://storymaps.arcgis.com/collections/d34681ac0d1a417894a3a3d955c6913f)
