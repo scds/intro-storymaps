@@ -6,7 +6,7 @@ nav_order: 3
 
 ## Presentation
 ### Introduction to ArcGIS StoryMaps (StoryMaps Collection)
-<div style="position:relative;padding-top:66.25%;">
+<div style="position:relative;">
 <iframe src="https://storymaps.arcgis.com/collections/477f5141bd04436ab0387cb0352c9dd9" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </div>
 <br>
