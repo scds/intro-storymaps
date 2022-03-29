@@ -4,7 +4,7 @@ title: Workshop Materials
 nav_order: 3
 ---
 
-# Learn More
+# Workshop Materials
 
 ## Presentation
 ### Introduction to ArcGIS StoryMaps (StoryMaps Collection)
