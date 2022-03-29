@@ -4,6 +4,8 @@ title: Workshop Materials
 nav_order: 3
 ---
 
+# Learn More
+
 ## Presentation
 ### Introduction to ArcGIS StoryMaps (StoryMaps Collection)
 <div style="position:relative;">
